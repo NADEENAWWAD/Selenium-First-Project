@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-22T21:17:11 TRT" name="Default suite" finished-at="2023-10-22T21:17:15 TRT" duration-ms="4456">
+    <groups>
+    </groups>
+    <test started-at="2023-10-22T21:17:11 TRT" name="Default test" finished-at="2023-10-22T21:17:15 TRT" duration-ms="4456">
+      <class name="projecttwo.myClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:projecttwo.myClass@7c7b252e]" started-at="2023-10-22T21:17:11 TRT" name="setup" finished-at="2023-10-22T21:17:15 TRT" duration-ms="3743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="printItemName()[pri:0, instance:projecttwo.myClass@7c7b252e]" started-at="2023-10-22T21:17:15 TRT" name="printItemName" finished-at="2023-10-22T21:17:15 TRT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printItemName -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:projecttwo.myClass@7c7b252e]" started-at="2023-10-22T21:17:15 TRT" name="myPostTesting" finished-at="2023-10-22T21:17:15 TRT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- projecttwo.myClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
